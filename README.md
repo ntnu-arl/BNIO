@@ -1,8 +1,6 @@
 # BNIO: Bionic Neuromast Inertial Odometry
 
 **Bionic Neuromast Inertial Odometry**
-Mohit Singh and Kostas Alexis
-Norwegian University of Science and Technology (NTNU)
 
 *The paper is currently under peer review.*
 
